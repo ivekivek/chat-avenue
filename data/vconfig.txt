@@ -1,0 +1,5 @@
+text_file=anyone for sexting
+message_text=Check new website!
+message_img=C:\Users\Ivan\Desktop\chat-avenue\data\chatbot-data.png
+link=stafty.com
+path_img=C:\Users\Ivan\Desktop\chat-avenue\data\chatbot-data.png
