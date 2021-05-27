@@ -3,6 +3,7 @@
 
 ## Features
 
+- For random emails bot uses generator.email/ provider,
 - Creating accounts with random real username using API from namefake.com,
 - Sending to public and private chat messages, replying to sent messages,
 - Profile picture uploading.
