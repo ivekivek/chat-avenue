@@ -10,6 +10,12 @@
 
 ## Usage
 
+To install all requirements.txt run:
+
+```
+pip install -r data/requirements.txt
+```
+
 Simple start start.py file and when window pop up in number section import how many accounts you want to be created. 
 Edit data/vconfing.txt file like:
 
