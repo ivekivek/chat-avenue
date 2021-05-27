@@ -6,7 +6,8 @@
 - For random emails bot uses generator.email/ provider,
 - Creating accounts with random real username using API from namefake.com,
 - Sending to public and private chat messages, replying to sent messages,
-- Profile picture uploading.
+- Profile picture uploading,
+- Uses anti-captcha.com/ service for recaptcha handling.
 
 ## Usage
 
@@ -25,6 +26,14 @@ message_text=text that would be sent to private chat
 message_img=path to image that would be sent to private chat
 link=you can here add link that would be sent to private chat
 path_img=text that would be sent to private chat
+```
+
+### Important!
+
+Add your anti-captcha.com/ Token in src/recaptcha_solver.py
+
+```
+api_key = '<TOKEN>'
 ```
 
 ## Little more details
